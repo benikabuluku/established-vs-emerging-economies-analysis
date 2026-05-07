@@ -1,5 +1,13 @@
 # Established vs Emerging Economies – Data Analysis Project
 
+
+## Interactive Dashboard
+
+
+This project is also available as an interactive Tableau dashboard:
+
+- Executive Overview & Deep Dive Analysis: https://public.tableau.com/app/profile/beni.kabuluku/viz/Emergingestablishedeconomies/Intro?publish=yes
+
 ## Project Overview
 
 This project analyzes key economic indicators across established and emerging markets to evaluate global competitiveness and identify structural drivers of growth. 
