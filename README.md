@@ -13,11 +13,11 @@ This project is also available as an interactive Tableau dashboard:
 
 ### Executive Overview
 
-![Executive Overview](images/IntroDashboard.png‎)  MainDashboard.png
+![Executive Overview](images/IntroDashboard.png)  MainDashboard.png
 
 ### Deep Dive Analysis
 
-![Deep Dive](MainDashboard.png)
+![Deep Dive](images/MainDashboard.png)
 
 ## Project Overview
 
