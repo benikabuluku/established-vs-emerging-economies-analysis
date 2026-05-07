@@ -8,6 +8,17 @@ This project is also available as an interactive Tableau dashboard:
 
 - Executive Overview & Deep Dive Analysis: https://public.tableau.com/app/profile/beni.kabuluku/viz/Emergingestablishedeconomies/Intro?publish=yes
 
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/IntroDashboard.png‎)  MainDashboard.png
+
+### Deep Dive Analysis
+
+![Deep Dive](MainDashboard.png)
+
 ## Project Overview
 
 This project analyzes key economic indicators across established and emerging markets to evaluate global competitiveness and identify structural drivers of growth. 
