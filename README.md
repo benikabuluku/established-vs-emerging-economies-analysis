@@ -51,6 +51,15 @@ Data sourced from publicly available datasets (World Bank / IMF), including:
 - Manufacturing output levels
 
 
+## Skills Demonstrated
+
+- Data cleaning and transformation
+- Exploratory Data Analysis (EDA)
+- KPI interpretation
+- Data visualization
+- Business insight generation
+- Dashboard storytelling
+
 ## Process
 
 1. Data collection and cleaning using Python  
